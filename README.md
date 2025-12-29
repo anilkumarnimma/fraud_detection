@@ -57,3 +57,4 @@ This separation makes the code easy to understand and maintain.
 {
   "amount": 15000
 }
+![WhatsApp Image 2025-12-28 at 8 39 59 PM](https://github.com/user-attachments/assets/501b39d0-576d-4948-9c84-9af4a8c09dc1)
