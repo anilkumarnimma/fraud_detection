@@ -56,5 +56,5 @@ This separation makes the code easy to understand and maintain.
 ```json
 {
   "amount": 15000
-}![WhatsApp Image 2025-12-28 at 8 56 39 PM](https://github.com/user-attachments/assets/2099c439-9938-4c5e-8339-1a42ac8856e2)
+}
 
